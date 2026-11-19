@@ -52,4 +52,4 @@ Maximum registration capacity represents planned program capacity, not actual at
 
 ## Dashboard Preview
 
-![Power BI Recreation Programs Dashboard](dashboard.png)
+<img width="782" height="440" alt="Screenshot 2026-11-18 at 9 54 47 PM" src="https://github.com/user-attachments/assets/d474f4be-e2af-43f9-a166-ea8088186f18" />
